@@ -6,6 +6,8 @@
 - Recovered source wrapper: `Scripts/Skids/Arsenic Hub Free/Clean/Main.lua`
 - Fetched second-stage source: `Scripts/Skids/Arsenic Hub Free/Clean/Loadstring.lua`
 - Analysis mirror: `Scripts/Unhiding/arsenic_hub_free_artifacts/fetched_loadstring.lua`
+- Line 299 decoded VM source: `Line299DecodedVM.lua`
+- Line 299 protected payload buffer: `Line299Payload.bin`
 
 ## Source Chain
 
@@ -51,6 +53,13 @@ a53707746564fc4b83bf00b328e656e226bc637b9a142d1893dc13fba1e63a8f
 
 The local Luraph helper detected the protected tail as `luraph_v14_4_initv4` family, but full recovery needs a script key. The artifact-only run produced a best-effort output that corrupts literals, so it was kept under `Scripts/Unhiding/arsenic_hub_free_artifacts/` and was not used as clean source.
 
+Line 299 was decoded separately with a sandboxed Luau harness. The harness replaced `loadstring` and `buffer.fromstring`, rejected non-string `loadstring` inputs without calling `tostring`, and captured the strings/buffers the Luraph wrapper tried to compile. This exposed the decoded Luraph VM source and the binary buffer passed into it:
+
+- `Line299DecodedVM.lua`: 90,628 bytes, SHA-256 `83cefa1ef5779bcfc233bbb29e9596a0ccc850b27545bb09af2644ac7b7a3602`
+- `Line299Payload.bin`: 2,028,684 bytes, SHA-256 `376673cfec2452f6afdf9b1eb4dbaa6b0ee17c277e47bd15e3ca0b19dd0f06ba`
+
+This decodes the loader function on line 299, but the protected user payload remains VM data without a script-key-backed devirtualization.
+
 Relevant helper outputs:
 
 - `luraph_detect.stdout.txt`
@@ -61,3 +70,4 @@ Relevant helper outputs:
 ## Verification
 
 `luau-compile` passed for the fetched second-stage source.
+`luau-compile` also passed for `Line299DecodedVM.lua`.

@@ -6,6 +6,8 @@
 - Recovered source wrapper: `Scripts/Skids/Arsenic Hub Free 2/Clean/Main.lua`
 - Fetched second-stage source: `Scripts/Skids/Arsenic Hub Free 2/Clean/Loadstring.lua`
 - Analysis mirror: `Scripts/Unhiding/arsenic_hub_free_2_artifacts/fetched_loadstring.lua`
+- Line 299 decoded VM source: `Line299DecodedVM.lua`
+- Line 299 protected payload buffer: `Line299Payload.bin`
 
 ## Source Chain
 
@@ -59,6 +61,18 @@ best-effort output and was kept under
 `Scripts/Unhiding/arsenic_hub_free_2_artifacts/` instead of being used as clean
 source.
 
+Line 299 was decoded separately with a sandboxed Luau harness. The harness
+replaced `loadstring` and `buffer.fromstring`, rejected non-string `loadstring`
+inputs without calling `tostring`, and captured the strings/buffers the Luraph
+wrapper tried to compile. This exposed the decoded Luraph VM source and the
+binary buffer passed into it:
+
+- `Line299DecodedVM.lua`: 86,612 bytes, SHA-256 `7a3f7b1007bd50d1a64921a6de918875d34553f822ed4dbbdc6ae616aaec350c`
+- `Line299Payload.bin`: 2,185,303 bytes, SHA-256 `39029976e7b3f7b6a1032f8f58e31373595e0c6bfb7dd09d36f2715ca9a0adff`
+
+This decodes the loader function on line 299, but the protected user payload
+remains VM data without a script-key-backed devirtualization.
+
 Relevant helper outputs:
 
 - `luraph_detect.stdout.txt`
@@ -73,3 +87,4 @@ Relevant helper outputs:
 - `Scripts/Skids/Arsenic Hub Free 2/Dirty/Main.lua`
 - `Scripts/Skids/Arsenic Hub Free 2/Clean/Main.lua`
 - `Scripts/Skids/Arsenic Hub Free 2/Clean/Loadstring.lua`
+- `Line299DecodedVM.lua`
