@@ -1,0 +1,1 @@
+oadstring(game:HttpGet("[https://raw.githubusercontent.com/f2playelias-lab/Aimbot-/refs/heads/main/Loader"))()](https://raw.githubusercontent.com/f2playelias-lab/Aimbot-/refs/heads/main/Loader%22\)\)(\))

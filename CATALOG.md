@@ -12,6 +12,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | [Arsenic Hub Free](Arsenic%20Hub%20Free/) | Partial VM recovery | [`Main.lua`](Arsenic%20Hub%20Free/Main.lua) | Junkie/Havoc wrapper plus decoded line-299 VM and payload buffer. |
 | [Arsenic Hub Free 2](Arsenic%20Hub%20Free%202/) | Partial VM recovery | [`Main.lua`](Arsenic%20Hub%20Free%202/Main.lua) | CDN payload recovered after API became unavailable; decoded line-299 VM and payload buffer included. |
 | [Arsenic Hub Free 3](Arsenic%20Hub%20Free%203/) | Partial VM recovery | [`Main.lua`](Arsenic%20Hub%20Free%203/Main.lua) | CDN payload, Luraph artifacts, decoded line-299 VM and payload buffer included. |
+| [F2Play Aimbot](failed/F2Play%20Aimbot/) | Failed MoonVeil recovery | [`Loader.obfuscated.lua`](failed/F2Play%20Aimbot/Loader.obfuscated.lua) | PC/mobile raw GitHub loader archived; MoonVeil v1.4.5 payload resisted current tooling. |
 | [Murder Duels](Murder%20Duels/) | Combined readable source | [`Main.lua`](Murder%20Duels/Main.lua) | Remote UI dependency was combined into one reviewable file. |
 | [NinijaLegendv2](NinijaLegendv2/) | Loader decoded | [`Main.lua`](NinijaLegendv2/Main.lua) | XOR loader decoded to its GitHub source; downstream button loaders are still external. |
 | [NinjaLegendsInf$](NinjaLegendsInf$/) | Readable source | [`Main.lua`](NinjaLegendsInf$/Main.lua) | Plain one-file GUI script. |
