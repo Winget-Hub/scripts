@@ -1,0 +1,47 @@
+
+
+MAIN TAB:
+- Server Hop - Automatically finds and joins a different server
+- Rejoin - Quickly reconnects to the same server
+
+PLAYER TAB:
+- CFrame Flight - Smooth controllable flight with WASD plus Space and Shift
+- Flight Speed Slider - Adjustable flight speed from 10 to 300
+- Walkspeed Modifier - Increase walking speed from 16 to 250
+- Infinite Jump - Unlimited jumping ability
+
+PETS TAB:
+- Target Wild Pets Dropdown - Choose from 12 wild pets including Frog, Bunny, Owl, Deer, Robin, Bee, Monkey, Golden Dragonfly, Unicorn, Raccoon, Black Dragon, and Ice Serpent
+- Auto Hunt Pets - Automatically teleports to and collects selected wild pets with spam interaction
+
+PLANTS TAB:
+- Auto Harvest - Automatically harvests all plants in your garden instantly
+
+AUTO TAB:
+
+Auto Seed Event:
+- TP to Seed Locations - Teleports to all seed pack spawn locations and collects them
+- Instant Collect - Toggle button that removes hold delay from all proximity prompts for instant collection with no cooldown
+
+Auto Buy Seeds:
+- Multi-Select Seed Dropdown - Choose from 25 seed types including Carrot, Strawberry, Blueberry, Tulip, Tomato, Apple, Bamboo, Corn, Cactus, Pineapple, Mushroom, Green Bean, Banana, Grape, Coconut, Mango, Dragon Fruit, Acorn, Cherry, Sunflower, Venus Fly Trap, Pomegranate, Poison Apple, Moon Bloom, and Dragon's Breath
+- Auto Buy Seeds - Automatically cycles through and buys selected seeds
+- Buy Cycle Button - Manually buys one cycle of selected seeds
+
+STEALER TAB:
+- Target Player Dropdown - Select any player's garden to steal from
+- Refresh Players - Updates the list of available targets
+- Enable Stealer - Teleports to target's plants, collects them, then returns to your garden
+- Auto Noclip - Automatically enabled while stealing
+
+WEBHOOK TAB:
+- Discord Webhook URL Input - Set your webhook URL
+- Logging Interval Slider - Adjust how often data is sent from 5 to 300 seconds
+- Data Selection Dropdown - Choose what to log including Sheckles Balance, Active Weather, Player Name, and Account Age
+- Test Send Button - Send a test webhook to verify your setup
+- Enable Webhook Toggle - Start or stop automatic logging
+
+VISUAL DUPER TAB:
+- Visual modifiers placeholder tab --premium only maybe fre eidk
+
+Total of over 25 unique features across 9 tabs.

@@ -1,0 +1,6281 @@
+{
+  "path": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua",
+  "protection_detected": true,
+  "types": [
+    "compression",
+    "dynamic_generation",
+    "vm_bootstrap",
+    "xor"
+  ],
+  "evidence": [
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FE9=GNNqo^nc5riHRiI",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "a=AVkuqaN^2oHh2",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=Hreh_hk^k",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HS=QLOdTQAsL^4",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4l=rfDDdqt79q0^pZ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8tY=i2^EcD",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "X=lS]AC_^3",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "RM=L^1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=a^oLbnY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Vpl=a_UEGGlqKJq^Z",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "pq=sM_EFHlT_hU]ka^o",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R5e=VB8I^YnfHb_",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o=U^j",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "QoOlOS6f=]^g",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JTScQ_=c9tdfti^aP",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B0=8^I",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Dp]=g^duDn",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "si=]tQP6og^UjX",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Aq2B9M=S^c",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R=hCYSLSb^G",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "A=5fb^mcaS",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rH4QJ_=]3^1ng",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "KV]dF=d5BI^t",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "oSatOCiI=DsAFJ^S",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "gJkgmFm4puhs=i^EFlNcZd",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "QWonDCIJF=i^SVE",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "oa=[dE1T^5",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "AY=j^GNO_XAV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=fbEff[Sf^dtY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4BX=p^qWHVl",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4DC=]2^U",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "n=9^0VNl",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JK9aO=pCL^TJ5",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6=LgS^QY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g11V=H^nEOfhu",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g=n^haK5dV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "pnu93gE=IR^PHKEX_o",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qJ=iocJOR1ae^a",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "It=V^fNRNGZhUf",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8OmWALGUhT=n^jY4",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "kS=7gNs^0d",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3F=WlDeP^k5jW",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=T6Jq^Ib",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "fUC9BA=cb1HPRT^Q7XDI",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_H4=2h^R",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5d=2^3nWi",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0=A]uhjSn^HCY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "NJ=8iIN^qoA",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lFQWDT9Ro=c^L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "A=h^ShE",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HcRHs=Jm^Ko4P",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rtbBYccaR=E6P^T1g",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "tYaaLTYm1Li8VbkN1=l1^bn",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "MHTL0=e^tUc",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "24WV=I^FV42gn",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7RQUc=hjOJ^Sn",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qG46GXQs]=Qohi^u2",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "BnlSH=X51Ta^c",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ghX=2TFWdUXm^47GU",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k=Fd^l",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "1Zn=D^Y",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JZBkh=FbAc]IRLd^3U",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Vtb4PLu=q^S",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "q=c^4Og3",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k4M=Kf0^S9daCCM",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Qhg=Gm6JOm^uJQ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[=4mQeZ^E",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Q=5q8[CKep958_MiO^LQq",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VI_l=i6jWIbFGcZ^5CQ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "T=l2c5^Du5_A",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6Dmp_9=F^3d",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nr1Z1=BPh2^Q",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=q^0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JS=OGc^ID",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FHEP9=S]TjuLiFVnnI[bmlo[CIKnTF^7M5CW",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "InT=2G^34M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "V=JODg8^cPb",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VZ=MCJ^8C",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "59=FJ^2Kp8",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Fdq=]r^F",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6tCi=X^hGC",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rcJ=KWm5M^Bao",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "i7mj1mDIlK3ICtO=Fj^F",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hi=AVL[^T",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H0_8P=lIubg^Uh",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "1=qK^c",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hF=n_E7R^AIm8N8oNN",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_X=64bL^mW",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qt=ON^2DfEJ6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k=EcU^og",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "h=7N^9_",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "U=U^43e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B=A^b",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ST7s=_tjm^Ud",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "s=PbONPu7^gj",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qgI91g=MCm9Cq^cEMMd",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o0=3sW^GY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Okl3kb4=p^j",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bE]ET=qfkeSRACXMA^O",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ueEmLt=P87GQFC3B3ZJ^X",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "IO883=i0YpGVK^uYdl",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rNel7=D^447fnS3",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H=c9LBK^KCr",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B=sam^T6DmjKjEHs9u",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "TTZPe_W=_fe^b",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Cq=r^DW6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B9r=eHAiXL^1Fo3Yqqf",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VW=DZhYa^MBI",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p9Z[7=YS4F^2WD",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "K=bEX^06",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "eVi]ChT6kPSh=nP1q9C^VVO",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "G=m^W4etphf",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "pXFD_[R5u=EU^k4HkX",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_=CE2^NQDkuLNq",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "T=cQD2^8",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p0=9DeQ^fGF",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hdQ3=KrdJ^a3sHK",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0f1s1D91=3Q[^uGa9gU",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "M=5L^A",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[=q^k564DZ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d3_=F^ni6fNR",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B=4S8B_k6^o",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "a=l[VeIYF^M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qC43I=Qj^rpG",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JUo]=R^Q7",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2I=Np^YEo",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "akjMM=4^TXn7Q",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "DqBrH2Kfr8=DU8^_",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "J=LMN60^UMGhoSK",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aI=oX3^clUmYKFE",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "DjE=7Om^kLBWg",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Dou=__^k",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "sp=as^S",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e8u8=J^I",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "LcoV=q[l^0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[ospf=4^0Hmi",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=6D7^h",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p2r=EeMWR^PCp",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "L=YmH^25iCMq",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2MQ=_Vk^lm",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_c=j^MDXpSN87L",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "C=V[6c6^lV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "32=HD^I",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d8RG_=HN5QBLmLKuKB^0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "NC=m^1VHXa",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_R]sm=L^94",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[=Njbr7ktJCH^i",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "71=E^bkBO4E8jpd6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "V=i^E",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E=oMI^fYrGO",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3fIo3=ZJfQrmd^AMUQOoWOs",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Lb=bnuO^WKJ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "RsS=sNt^W",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "s=U^e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FYTbHUK=B^qZ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jY=[M^pk",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JiBdHsElBH5U1M=8s^o2AEh9",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "J=]H70^ZcBY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7K9mMP=[^S3B",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aD=shm0^IIJDEM",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ee=SOLhl^UR",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lQ=h^c3Y",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "gu=oJDCt2hg^P8cbY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r=_^l",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "QI7g=Sp^rBLO",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lf=t^0loI46",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "A=2^K",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ScQ=um^hdZ0gNa5u",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7B=gplO^p9",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VP5aVmgF=BdR[u^I",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "CsJ=X8jU2jbHpRUm^t",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8=5^q",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=]^QW",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "t=KNWej6i0^S",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "V=iTD6qC^le",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "MD=J^KCM82",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4=7^Xed",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "l=C^Z9A69",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7XfaEKEuLLFUGY=CiIVIr^L7",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g=_Q^1T",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=k8t5Q^PqH",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "IDY=k^bgm9Ck",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k0K9=2rTa^bhb",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "BEK4EDS=a7^g",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Xr=9Gg^Vd",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "RYH=0^9GEk",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=kJ_ZI88^p",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Akp=aZEX5R^dL",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bJc=a^UWJ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "m3GO8946YCo=NR8J0d^47OTo",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "pQaTCoPoIS[YpQ=YJt^6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[=BLrR5^L",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "gD5=C^EV0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E2_V_=LN^h_C",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=E^csZ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "GQH6853c=UPP^6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3=9^68U",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=bm^M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nfu=Le^2DRBTXP6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "D1VSNk=tV^VHa",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=Vr^L",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o=]a]^uQfR",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HR=A^e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nb=tB^A",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=tJ^5P3QToN",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3STH=3^XJ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=E^F9m",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Yt]u=I^gR",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Vl=1M^4V2",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "IVAr=Q^HuV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ahPPRu=n^hqq",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=qi^U8Y",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2Bb=FCn1L[8n^5gR",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "U3A6Q[9=H9SX^4A",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_9W0K=_P^1j",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bATCX=7n14C^Bi1b",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0b=LF^sC5id",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "u=NpRd0^I",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]XGf=E^o9NfA2CM",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=[gUVp^S",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "OJ6J=1^X",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "X3=ME^2",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[=1^Z",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "gej=[JppcI^30Z",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O0Rl=3^K",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "de=2Z5B11r^Ims",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "AZ0Phs=rdH^F",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "C=I^8",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R=t^n0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ug=R0bpr_^o",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Eq=_82e^D",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "uud=S^s",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "45JQ=D^M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7Msb=AcsSAW5^djW3",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "q=Vg^B",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Zi2=5el0f5AM8^bb",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=4uG06YT^cP",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "N=PQFZ98Nl^LkJ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "TAMMG=_J^SY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "GBs=FQ^YkRV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S0q=q^U",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "b=k_LHUZ8NGg^WR9egfTk",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7pD=2fHT5^1h0",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "GHJCm=TK^F",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "erhUL=7Yk^gpXiZu8n4i",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FoN=7^KDh",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5LC=ZLc8h^2F12",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rX=mr^cQ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "F6=3t^j",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4_VtG8=A0khL^MZ",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "kim=siM^M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k=opH^1P",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Xo=Z^M",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ike=LHJG_^e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "n=MqbBj^FodY",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "K=AM^bD",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "m=R^66Vi37ZV",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=GZOF^7qt",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "mei=hu^op9",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=pY^1Znd9",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "K=LoTAE^98",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qiL=1Q^hLL",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nJo=1^4sujbC",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Z=iYnjocBso^o",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hY=i^_V",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Dgc=D^uF",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[LUN=G^5dC",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "U=P^7h07u",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E=Fa^mU4t",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "dt=3ltIBPl^TaA_Rqn",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "n9fB=J9Rh^1Sr",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "KNb1N]h=jmf08dpE^hLfpK",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "9VFh=cnI6O8bmhC^A",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jlL[ntT9=Q0^idhZ1l_dX",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "fE2e[[b2=Wlb^Mn3_9",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e2[MhZLg]l=84LVShr^Zc1CO",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "b=pu^8",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "1gCAA=7^K4R",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jBoBT=tWmC^T",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_I=uh^No",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "29[=jb^27e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JX=U^n",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8TMfUSnt33X=_^k5",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "RIpR=E^gZIA",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]4Oi=1Y_^u",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=1^c",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "YD=n0^sN",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lhc80uHF=a^C",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=X4O^BopP",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Z=Kn^I4G",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8L1=Z^e",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "I=M^c6",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jNoG=a^n",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=Y^YQH0oH",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "NrfNbfk8=K^l",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Zg=NZOn^Aj",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Z=4d^3",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "compression",
+      "pattern": "string_pack",
+      "snippet": "string.pack",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "string_char",
+      "snippet": "string.char",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "load_call",
+      "snippet": "loadstring",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "load_call",
+      "snippet": "loadstring",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+    }
+  ],
+  "macros": [],
+  "settings": {
+    "tables": {},
+    "known": {}
+  },
+  "metadata": {},
+  "limitations": [],
+  "recommendation": "frida",
+  "scanned": [
+    "Scripts/Unhiding/gag_free_artifacts/second_stage.lua"
+  ]
+}

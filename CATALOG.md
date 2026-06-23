@@ -18,6 +18,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | [BladeBall 1](BladeBall%201/) | Loader/TOS recovery | [`Main.lua`](BladeBall%201/Main.lua) | NodeX TOS prompt and loader chain archived with decoded loader artifacts. |
 | [Bloxberg 1](Bloxberg%201/) | Partial WRD recovery | [`Main.lua`](Bloxberg%201/Main.lua) | Bloxburg UI/control surface reconstructed from a WeAreDevs VM wrapper. |
 | [F2Play Aimbot](failed/F2Play%20Aimbot/) | Failed MoonVeil recovery | [`Loader.obfuscated.lua`](failed/F2Play%20Aimbot/Loader.obfuscated.lua) | PC/mobile raw GitHub loader archived; MoonVeil v1.4.5 payload resisted current tooling. |
+| [Gag Free Script](failed/Gag%20Free%20Script/) | Failed VM recovery | [`GagFreeScript.lua`](failed/Gag%20Free%20Script/GagFreeScript.lua) | Readable key-system wrapper archived; Luraph v14.7 second stage resisted keyed recovery and only produced placeholders. |
 | [Grow a Garden 1](Grow%20a%20Garden%201/) | Loader decoded | [`Main.lua`](Grow%20a%20Garden%201/Main.lua) | VM loader decoded to a GitHub payload URL that returned 404 during recovery. |
 | [Jujutsu Shinanegans](failed/Jujutsu%20Shinanegans/) | Failed MoonVeil recovery | [`JjsLoader.obfuscated.lua`](failed/Jujutsu%20Shinanegans/JjsLoader.obfuscated.lua) | Screenshot PC/mobile loaders archived; MoonVeil v1.4.5 payload resisted current tooling. |
 | [Junk Drawer](Junk%20Drawer/) | Mixed holding area | [`README.md`](Junk%20Drawer/README.md) | Dirty-only, empty, or partial skid-folder entries that do not fit the main recovered-source list yet. |
