@@ -4,6 +4,40 @@ Open Source Hub is an archive of Roblox scripts that were hidden, obfuscated, or
 
 The goal of this repository is transparency. When a script is distributed through a loader, packed behind obfuscation, or tries to keep its real behavior out of sight, a recovered source copy can help people understand what is actually inside before they choose to run, study, or reference it.
 
-Each folder contains a script source or related recovered files for that entry. Some scripts are fully deobfuscated, while others may be reconstructed from available source and supporting payloads. Folder-level notes, when present, explain what was recovered and where the original loader came from.
+Each folder contains a script source or related recovered files for that entry. Some scripts are fully deobfuscated, while others are partial recoveries, readable reconstructions, or public source copies that were originally delivered through a remote loader.
 
 This archive is for review, research, education, and preservation. Always inspect code yourself before running anything from the internet.
+
+## Current Archive
+
+| Script | Recovered files | How it was hidden | How it was opened up |
+| --- | --- | --- | --- |
+| Anti-afk | `Anti-afk/Main.lua` | The archived copy was already readable source. The hiding was mostly the normal distribution problem: users receive a script without much context and have to trust what it does. | The readable single-file source was copied into the archive and syntax-checked with Luau tooling. |
+| Arsenic Hub Free | `Arsenic Hub Free/Main.lua`, `Loader.lua`, `OriginalLoader.lua` | The user-facing script was a tiny `loadstring(game:HttpGet(...))()` wrapper pointed at the Junkie API. The fetched file used a Havoc/Junkie key-system wrapper and ended in a Luraph v14.7 protected payload. | The public API URL was followed to its CDN target, the second-stage source was saved, URLs and hashes were documented, and the readable wrapper behavior was preserved. The Luraph tail is documented as protected and not fully devirtualized. |
+| Arsenic Hub Free 2 | `Arsenic Hub Free 2/Main.lua`, `Loader.lua`, `OriginalLoader.lua` | Same hiding pattern as Arsenic Hub Free: a remote Junkie API loader, CDN redirect, key-system wrapper, then Luraph v14.7 payload. The original public API endpoint later returned 404. | The direct CDN payload was still recoverable, so it was archived with its loader chain, hashes, and notes. The Luraph tail remains a partial recovery because a full script-key-backed devirtualization was not available. |
+| Arsenic Hub Free 3 | `Arsenic Hub Free 3/Main.lua`, `Loader.lua`, `OriginalLoader.lua` | Remote Junkie API loader, CDN redirect, Havoc/Junkie key-system wrapper, and Luraph v14.7 protected tail. | The redirect target was fetched and stored. Artifact-only Luraph analysis recovered some constants, but the archive keeps the original second-stage source and documents the protected tail instead of pretending it is fully cracked. |
+| Murder Duels | `Murder Duels/Main.lua` | The script depended on a remote/obfuscated UI library named like `obsf.lua`, keeping important behavior outside the visible entry script. | The UI library and script logic were combined into one readable file, so the archived source can be reviewed without pulling the remote dependency at runtime. |
+| NinijaLegendv2 | `NinijaLegendv2/Main.lua` | The dirty entry was an XOR-encrypted `loadstring(game:HttpGet(...))` loader that hid the real URL. | The XOR layer was decoded, revealing a raw GitHub source URL. The decoded source was saved as `Main.lua`; it still contains many downstream `loadstring` buttons, so this entry exposes the hub/router source rather than every linked server script. |
+| NinjaLegendsInf$ | `NinjaLegendsInf$/Main.lua` | This entry was not strongly protected in the recovered copy; it was a plain one-file GUI script. | The readable source was archived as-is and syntax-checked. |
+| OmniScan V1 | `OmniScan V1/Main.lua` | This entry was already readable source in the recovered folder. | The complete one-file source was archived and syntax-checked so it can be reviewed directly. |
+| Sell Lemons | `Sell Lemons/1/Main.lua`, `Sell Lemons/1/CalmLib.lua` | The main script loads a public UI library remotely with `loadstring(game:HttpGet(...))`, so part of the behavior was outside the entry file. | The main script and the public CalmLib source were archived together. This is an open-source capture, not a heavy deobfuscation. |
+| ShizukiWallHop | `ShizukiWallHop/Main.lua` | The dirty script carried a LuaObfuscator.com Alpha 0.10.8 banner and was mostly minified/renamed rather than VM-protected. It also has one external Shiftlock loader button. | The code was reconstructed into readable Luau with clearer names and structure. The remaining Shiftlock URL is kept explicit instead of hidden inside the script body. |
+| Spoofers | `Spoofers/videospoofer.lua` | This entry is plain source and was not meaningfully obfuscated in the archived copy. | The readable source was kept directly for review. |
+| Universal 2 | `Universal 2/Main.lua`, `WrdLayer.lua`, `Loader.lua`, `OriginalLoader.lua` | The loader fetched through the Junkie API to a CDN file. The payload used a WeAreDevs obfuscator VM layer followed by a Luraph v14.7 protected tail. | The API redirect was resolved, the CDN payload was archived, and the WRD layer was probed with Roblox/executor stubs to recover readable constants and network fetches. The Luraph tail is documented as partial because full recovery would require the script key. |
+| sUNC | `sUNC/Main.lua` | The original dirty script was a Luraph v14.2 VM wrapper around an executor capability test. | Runtime behavior was reconstructed into readable Luau tests. This is a behavioral reconstruction, not a full instruction-level devirtualization of the Luraph VM. |
+| server38 | `server38/Main.lua` | The dirty script was protected with MoonSec V3 and hid a raw GitHub loader URL. | A sandboxed runtime probe with Roblox/executor stubs recovered the decoded loader URL, then the source at that URL was archived as readable Luau. |
+| splotv4.1 | `splotv4.1/Main.lua` | The original used Anundix-style obfuscation: octal string escapes plus random identifiers, with no hidden remote loader. | Octal escapes were decoded, identifiers and formatting were cleaned up, and the result was saved as a readable one-file GUI script. |
+
+## General Recovery Pattern
+
+Most entries were opened up with the same review workflow:
+
+1. Identify whether the visible file is real source or only a wrapper.
+2. If it is a wrapper, extract the URL from `loadstring(game:HttpGet(...))` and save the fetched payload instead of running it blindly.
+3. Follow simple redirect chains from public API endpoints to their CDN or raw source targets.
+4. Decode simple hiding layers such as XOR strings, octal escapes, minified names, and remote library indirection.
+5. For VM obfuscators such as Luraph, MoonSec, or WRD, use sandboxed Roblox/executor stubs to observe constants, URLs, and behavior without executing the script in a real game session.
+6. Preserve partial results honestly. If a VM tail is still protected, document that instead of claiming a complete deobfuscation.
+7. Run a Luau syntax check on recovered files before adding them to the archive.
+
+The safest mindset is to treat every loader as untrusted. Read the wrapper, fetch the source as data, document the chain, and only then decide what the code is doing.
