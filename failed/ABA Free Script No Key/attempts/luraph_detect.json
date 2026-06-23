@@ -1,0 +1,6269 @@
+{
+  "path": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua",
+  "protection_detected": true,
+  "types": [
+    "compression",
+    "dynamic_generation",
+    "vm_bootstrap",
+    "xor"
+  ],
+  "evidence": [
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "BN_Je=dY^_qDp",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Mo=k^X2",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "q3GMh=XE^0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3IC8LrIW=t^luK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bV7M=10a^O1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "h=0^_hm7I2S",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "n=RZ5^dm4BS1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4H4k=bKb9^AS4",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qjO=iQq^G",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Coo=6hB^GMjJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8=H4WlN5knI^X",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o]jsN=t^e",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B1H5cQhhI=qE^kSBlkia",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "KH=Wmff^Y",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_=B^a",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aq=MG]]lqo6^lLh",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R=dYWAdeu^pN",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r=OidEmU]mIV^BdUc",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "40u=e^ZD",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JqD]=P^MQQF",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "SFbLHER=[^D",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d4hf=_^cUhN",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jSR=0Lu4^I",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5=Q6i5nDOjIKX[K^5",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ftq=h5X^G5ebf",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aIr=f4^cVnUQc",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "99k7D[=T^ODcDqFg85st",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o8]1s=gGPp5Xhd^3jjC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Oats=h^ubRkY0VVQ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qm=ggUtpHFo^H",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=[kb95Dr]Y^o",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "iRaD=Fle^7ZIpSEZ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "flLh5I=J2lWEu3_jqaN^OR0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "DnCE6=sID^YVfihBL8",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "kH[U=4A^01aJ0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "X=QiUr^PcLJdQU",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H=YtMh[KnR^uTUlEi",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "WnYQ]=Uo^DLVZ2FOT4",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "isFg_eEl2h=5WZp^cRO",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "SoCZ8=74q4^Xs",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g=kdC^p2",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "CuVgl9dgOJ=[u7i_NL^Wp",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hp=LQ^dP",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "uR=Nka^bXs",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=Xk9^bF",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FJR=b^sFQC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[0FrQFeWI=KJR1^P",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "44=5C[^Kriq2TIrO",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5mV=9l^HI0Y",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O_=YW^U",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4=83YIA^LG",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aW=Cal^UG",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "mGb=g^FKpL",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]=8a^6jJh",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "l]=B1BG^P",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ir[leF=o5DFGl2[i^9",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "9BlS=[np^M",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "l2E=AT^Mb1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p5bGH=i^U",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ke=pf^Z",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "dWOHq=rR^l",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "i[=c^r",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "D8L=Zt^M",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "kK=2^ouBppKS",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "u=S^FOo68jGl_WgI",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "65f=jI^KJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Oa=N^TjiHAbnr",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3OKj8P=QDSDodu[el1IfS9Ak^PYU461e",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7=BqOSFQ_Q^XQu",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g=9Q^0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aQ1oN=ZLEajM3^9",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HIlmeJf=ma4o^p",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "mBEJ=4^C",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "X=W7[Wa7g^gf4Q82f",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HuOC4mQ0=VSdG5W^hsHeFdR7Ar",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]r=X^e",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "j=0^R",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Gi=m__TR^G80",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d]6=H9TJp^Vg",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6cj=XC^NfQrPXnH9kNKs",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5jSdWRHF=Ye^T",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aR9A=hg6^n",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "K=XWm5^EcY3MC2tnSlL8",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "uY4aq=Tbg^FBah",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "AI=U7_^06IZ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "sJ6]=dOR^KcRhN",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nd9Kj=lJfZ^roSbs",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JhZ[H0k7i=M^A",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "iktQ1aR3d=7]lMH^L2",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=KP6aepLU^cS",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "q=df^f7GmU",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[B=ea^PTHS",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ke5G1o=Wplk1^Y87",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "q=lNei^V",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "EiEM=]npH^BNLpZ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H68h]jH=jhhb^rZbl",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "LoI5=Dm7LJGb^jT",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2kFgT7bd4=PaW9^Wf",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ta=jMc8_2Z^H",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FNZ=gp^t_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k=9m^j",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "f=p84Z^5",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H=4k^X",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "j=E^0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[00ND0RdAV=Vk077^qD",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "oGhe9=P_T]^f0aCGU",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0GPZ=R^oXD",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6u4iT=AK5QP^n5",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "MS5=51^fGo8XM",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Wf=QjQe8^R8Qm",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jOnQ=0^Q55BlbTOBaFW24anQFWt",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[_nU=W^jQV",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "k=tX^M",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "H=oUO^u",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "kBZ=W^PU",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r99=KB^K",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=[PMX^bl1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "_=o^u",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3Z=MpF^N",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bB=PB^3ra",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "C=im]iu29^_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "M=k^SEP7",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p=Z^WE",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "UGP3p2nYAstg[l5n=2^m",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Dg4Oho=2k^X",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[Sm4G1Eir=ha^V4Kj",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "J2=DZh3g^UI",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "OQ=qX^iMunfH9kH",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "g9=aQVfJ^kP7_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[oCspHrcWfVFW6d=d^t",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "C]]B=c^qeo",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p=1^WkcSQqbCL",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lt=8bRTu^Q",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "a=k^q",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "V[=hJ13^5UdJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "SfLOb=q^G",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Qr=ZaB5^Y",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ju0=R^mb",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hWaX=3VO^3",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3ZP=MI^hLidR",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E2=LF^UmOaK8DMYi",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "eJu49bTI=L[QE^UUr",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0F9=l^KLJj",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FTFhWPRsN=3AkL^LCbgL",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VYismaf5d=bc^1S",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "M=W^oHHtU",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "L5YOFYm=7^qGfhtc3",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=eoYs5P[LNJ^V",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "X=Hd^n1K83q",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d2g=8[^5H8MT",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=[P^UC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2=QF^k",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "NW=6GYBR^d6GqjuqsAkkYC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "NhG=imos5^d",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B_a[K=Kk^Y",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3DmNrU82=ID^ta",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "t=Xa^ofc",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "sos=2Y5Gcf^N0",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "sIk8SYlbO=Zam^RK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "F=5[a[X3U^kM",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E][3a=qF^2mpQhDn",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o=7^V",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "gPN=_d^N3c",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "hlb=oI^nj9",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P8WERkZm=fN^FJK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "TW=A5LW^d7",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rddNFoOA1=DWK^68",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "IJ=q3^5D",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[l7=Wib^R",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8=jZqS8Pa[^u8bkE",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "F=b^gB1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4A=RqPs^b",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ZA=5oFZ]^AT3u",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6_G5W=X^D",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=7^SHTZ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "c=6NduR^Z",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4FAst=rkX^j",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "74qGA6a=Td^5W",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Amn2=6k^piSMC_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[Q=7pPj^n8DYq",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "K=6EU]16s_lcGl^ZC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "i=lQ4W^cCi2J",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r=lV0JDDjemF7^7hcJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6bFW[=hLSS^j1t",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "rpDYXVDsJb=0L^qr",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "l6l5I=AaMQi^X",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "VkV=PAORS^9",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=ZGrAcENt^6",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "fFUcY=[DLi^s",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "V=B^RoBD",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "F4tJ=6^RW9",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ndLAem=tOm^jK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "AOj[=Kbt[M^1cTG",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "u9=n^oUOQ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "QKuku33N=1Vo^lb",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=5^e",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "PHbdK=DKUAoED^kd0MA",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4rMr0QlUY=[aEZO^o",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "c=c^m7",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "LcjCiJ46QVrmcZ=m9e^pfYG",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "tD=h^n9ff",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "70=eZRWYr5ujl^A_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Fh1J=I^s",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "POBm=25^kp0C",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o=u^P7K",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Mlouc=C2R^I_mJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3Tc=d]^ZVorQ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "a=h^H_sZe_c",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R=7RsEuVR5oPSPbbI^L3",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "b18=R^XpMWg",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "nV=QBn_qKW^0Q",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "cWmJ1M05W=s47KRlc^BF_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]5BmNGoY=A0j^mui3SakGe5jiuB",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "En[Ja6Mb=4N4^00OFj",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3=_W^DcAn",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "1g=0OM^1afoHQ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3R5Kp67b=1[cU^t3",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r7HEhK=L^GLMT",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "66V=j^CUYBnXM",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Uu=UWD_70^AcB",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "d=tm^3TfC7",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "u=qSH^u",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "AU=hD^6L85bE",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "t=r^RY3",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "BhXA98Pn=Ck^TF_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "6=B^pEc",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HXGUGQ=WR3QeViXmaqUamBWc^aEu",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jX=K^f",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "p=Q[Bjm^b3QMY",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "u=3^C7l",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=eRr^Y",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E9=38tTCmP^jK2",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O=g^pSH",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ieV=RKf^g",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "o=K^V",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O4=9Fi^b",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "XBrU=pNoe^R",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "O0b=iP^4",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lQAGq=]g^po",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "OM[Qt9=FC^Rt",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "7S=7LK^2Xsc_lW",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "FV7YM=_^U",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "TS=EQ[nA^B",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "1G=7CY]k1OW^n",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "HsGsha=5^XBK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "dF5]GZYtE=ip_^pbM",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "mYq_c=[FH8^d",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5BQQ=TmmrkpiB^CntlXrI02iDoC",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "t=r41eS^j1Ng8",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "r=KW^nZXal5QBAe",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "b=J^iK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "eFci=qH9^Rqc1U04BD",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "40aFD5p=G_ja8^LeOR",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "JDq2odbl=RMR^_jrLA",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5Jp=J^F",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "4fP=H5^_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qm=K^LId",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "3=dLY^B",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "03=3TL6H^NcK",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "qfl5VCmrXhj3=J^Ldl",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "J=OF1^7",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "P=jS^MZb",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "j_Ts3=pbWk^WeK8OWihW",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5JckVUqUU=UoT^4Qob4",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "MJYoiY96p[j=4^G3M6",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8=5^Eal",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "n=V^X",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "[i=GU^TSmO_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Int=KK^Zg",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "GIr=JP[f9RfKej^R",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "bNuf=R[BEnL^n8T",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Ui9=P^oJ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "WKRW]QEQ=VQ^im",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "E=aO4kp^tU6im",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "S=T^o",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "i=6l^03gGRdJc",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Im=I0^bs",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R=k1siRa^nNWZ",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8pn2=SKfo^_",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "lu=Q2mU^bM",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "Y=E3Yp^FcQh",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "2pG=2c^4",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "]q=J^OOD6",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "8D=ZmZF^D",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "m6=X^AH",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "aWJ=eU^IV",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "U5Ljl=r^tL",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "B5=6uL^Mb",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "s=0OG^s",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "0=EKlo^k",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ZmJRm2Ott=Z^MZlfjFH",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "e=9uJdqo5[^n",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ES=R0^tiEF",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "jPfDMLJK=B4QB5YU^e_3an",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "5=J^VCB",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "ni=oN^I",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "XeF=l^92",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "xor",
+      "pattern": "caret_xor",
+      "snippet": "R0=kF^Gq",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "compression",
+      "pattern": "string_pack",
+      "snippet": "string.pack",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "string_char",
+      "snippet": "string.char",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "load_call",
+      "snippet": "loadstring",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "dynamic_generation",
+      "pattern": "load_call",
+      "snippet": "loadstring",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "l1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_L1",
+      "snippet": "L1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    },
+    {
+      "category": "vm_bootstrap",
+      "pattern": "helper_Y1",
+      "snippet": "Y1",
+      "filename": "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+    }
+  ],
+  "macros": [],
+  "settings": {
+    "tables": {},
+    "known": {}
+  },
+  "metadata": {},
+  "limitations": [],
+  "recommendation": "frida",
+  "scanned": [
+    "Scripts/Unhiding/aba_free_no_key_artifacts/fetched.lua"
+  ]
+}
