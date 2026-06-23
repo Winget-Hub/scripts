@@ -1,0 +1,38 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/__init__.py", line 1160, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/__init__.py", line 999, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/__init__.py", line 703, in format
+    record.message = record.getMessage()
+                     ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/__init__.py", line 392, in getMessage
+    msg = msg % self.args
+          ~~~~^~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/main.py", line 38, in <module>
+    raise SystemExit(main())
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/main.py", line 34, in main
+    return _cli.main(sys.argv[1:] if argv is None else argv)
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/main.py", line 1875, in main
+    results, duration = utils.run_parallel(work_items, _process, jobs=jobs)
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/utils.py", line 710, in run_parallel
+    results = [worker(item) for item in items]
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/main.py", line 1492, in _process
+    timings = pipeline.PIPELINE.run_passes(
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/pipeline.py", line 497, in run_passes
+    fn(ctx)
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/pipeline.py", line 622, in _pass_vm_lift
+    metadata = vm_lift_run(ctx)
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/passes/vm_lift.py", line 396, in run
+    module = lifter.lift(bytecode, specs, const_pool)
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/passes/vm_lift.py", line 134, in lift
+    decoded = list(self._decode_stream(bytecode, opcode_table))
+  File "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Unhiding/tools/luraph-deobfuscator-py/src/passes/vm_lift.py", line 162, in _decode_stream
+    LOG.warning(
+Message: 'Bytecode length %%d is not a multiple of instruction size %%d'
+Arguments: (5, 4)

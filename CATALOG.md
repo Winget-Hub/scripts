@@ -6,6 +6,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 
 | Script | Status | Main file | Notes |
 | --- | --- | --- | --- |
+| [ABA Free Script](failed/ABA%20Free%20Script/) | Failed VM recovery | [`Payload.obfuscated.lua`](failed/ABA%20Free%20Script/Payload.obfuscated.lua) | Screenshot Junkie loader archived; Luraph v14.7 payload resisted keyed recovery and only produced `noop()`. |
 | [Aetherea Bloxburg Auto](Aetherea%20Bloxburg%20Auto/) | Partial Luraph recovery | [`Main.lua`](Aetherea%20Bloxburg%20Auto/Main.lua) | Remote loader and Rubis prompt recovered; protected Luraph tail remains partial. |
 | [Atlas Hub](failed/Atlas%20Hub/) | Failed MoonVeil recovery | [`AtlasHub.lua`](failed/Atlas%20Hub/AtlasHub.lua) | Readable key-system stage recovered; MoonVeil 2.0.14 second stage archived with attempt logs. |
 | [Anti-afk](Anti-afk/) | Readable source | [`Main.lua`](Anti-afk/Main.lua) | Plain anti-idle helper script. |
