@@ -8,6 +8,12 @@ Each folder contains a script source or related recovered files for that entry. 
 
 This archive is for review, research, education, and preservation. Always inspect code yourself before running anything from the internet.
 
+## Browse
+
+- [Full script catalog](CATALOG.md) - clean list of every archived script, status, main file, and notes.
+- Each script folder now has a `README.md` with the local file map and recovery status.
+- Start with `Main.lua` inside a folder unless that folder README points to a more specific file.
+
 ## Current Archive
 
 | Script | Recovered files | How it was hidden | How it was opened up |
