@@ -7,6 +7,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | Script | Status | Main file | Notes |
 | --- | --- | --- | --- |
 | [Aetherea Bloxburg Auto](Aetherea%20Bloxburg%20Auto/) | Partial Luraph recovery | [`Main.lua`](Aetherea%20Bloxburg%20Auto/Main.lua) | Remote loader and Rubis prompt recovered; protected Luraph tail remains partial. |
+| [Atlas Hub](failed/Atlas%20Hub/) | Failed MoonVeil recovery | [`AtlasHub.lua`](failed/Atlas%20Hub/AtlasHub.lua) | Readable key-system stage recovered; MoonVeil 2.0.14 second stage archived with attempt logs. |
 | [Anti-afk](Anti-afk/) | Readable source | [`Main.lua`](Anti-afk/Main.lua) | Plain anti-idle helper script. |
 | [Arsenic Hub Free](Arsenic%20Hub%20Free/) | Partial VM recovery | [`Main.lua`](Arsenic%20Hub%20Free/Main.lua) | Junkie/Havoc wrapper plus decoded line-299 VM and payload buffer. |
 | [Arsenic Hub Free 2](Arsenic%20Hub%20Free%202/) | Partial VM recovery | [`Main.lua`](Arsenic%20Hub%20Free%202/Main.lua) | CDN payload recovered after API became unavailable; decoded line-299 VM and payload buffer included. |
@@ -33,6 +34,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | Reconstructed source | Obfuscation/minification was rewritten into readable Luau. |
 | Behavioral reconstruction | The original VM was not instruction-for-instruction recovered; behavior was rebuilt into readable code. |
 | Partial VM/Luraph recovery | Some protected layers were opened, but the final virtualized payload is still not readable original source. |
+| Failed VM recovery | A loader or first stage was recovered, but the protected payload could not be devirtualized with the available tools. Failed entries live under `failed/` with attempt logs. |
 
 ## Folder File Names
 
