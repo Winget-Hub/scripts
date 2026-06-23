@@ -1,0 +1,3 @@
+sandbox capture failed
+
+sandbox fallback: used fixture_unpacked_dump.json

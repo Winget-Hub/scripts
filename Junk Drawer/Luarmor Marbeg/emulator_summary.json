@@ -1,0 +1,45 @@
+{
+  "cache_folder": "static_content_130525",
+  "cache_name": "74c74f95fd0-marbeg",
+  "cache_path": "static_content_130525/init-74c74f95fd0-marbeg.lua",
+  "init_source": "cdn",
+  "init_static_summary": {
+    "bytes": 602650,
+    "has_script_key_reference": false,
+    "has_superflow_bytecode": true,
+    "httpget_occurrences": 0,
+    "loadstring_occurrences": 0,
+    "protection_markers": {
+      "bit32_bxor": true,
+      "dynamic_string_char": true,
+      "setfenv": true,
+      "string_pack": true,
+      "string_unpack": true
+    },
+    "readfile_occurrences": 0,
+    "sha256": "1bf08aaa6f3f95ceb97dd0c81d066b03bfafbacd2a75bb64c118503eb1a2dcdf",
+    "urls": [
+      "https://luarmor.net/"
+    ],
+    "writefile_occurrences": 0
+  },
+  "loadstring_chunks": [
+    {
+      "bytes": 1429,
+      "label": "initial_loader",
+      "path": "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Skids/Luarmor Marbeg/Clean/Deobfuscation/emulator_run/chunks/loadstring_001_initial_loader.lua",
+      "preview": "-- Do not save this file\\n-- Always use the loadstring \\n  _bsdata0={2157702274,\"25E0_0D5ECR0EB024.2_122ER_L42CLBR-4CDB.3-3L30R5.242_BB_RLDLDB43CR4_CBAABLA1E0C4-3",
+      "sha256": "dabe3bc1a07f982e94f57ab5874930449c0f2b835ec2be033d1203b47ac05b5b"
+    },
+    {
+      "bytes": 602650,
+      "label": "cdn_init_payload",
+      "path": "/Users/lucasoleksyuk/Downloads/main coding projects/Roblox Scripting/roblox-scripts/Scripts/Skids/Luarmor Marbeg/Clean/Deobfuscation/emulator_run/chunks/loadstring_002_cdn_init_payload.lua",
+      "preview": "--[[\\n        Luarmor V4 bootstrapper for scripts. \\n this code fetches & updates & encrypts & decrypts cached Luarmor scripts in the folder named static_content.",
+      "sha256": "1bf08aaa6f3f95ceb97dd0c81d066b03bfafbacd2a75bb64c118503eb1a2dcdf"
+    }
+  ],
+  "note": "Captured chunks were not executed.",
+  "script_key": "KEY",
+  "status": "ok"
+}
