@@ -19,6 +19,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | [Grow a Garden 1](Grow%20a%20Garden%201/) | Loader decoded | [`Main.lua`](Grow%20a%20Garden%201/Main.lua) | VM loader decoded to a GitHub payload URL that returned 404 during recovery. |
 | [Jujutsu Shinanegans](failed/Jujutsu%20Shinanegans/) | Failed MoonVeil recovery | [`JjsLoader.obfuscated.lua`](failed/Jujutsu%20Shinanegans/JjsLoader.obfuscated.lua) | Screenshot PC/mobile loaders archived; MoonVeil v1.4.5 payload resisted current tooling. |
 | [Junk Drawer](Junk%20Drawer/) | Mixed holding area | [`README.md`](Junk%20Drawer/README.md) | Dirty-only, empty, or partial skid-folder entries that do not fit the main recovered-source list yet. |
+| [Mark22028 Anti-Afk](Mark22028%20Anti-Afk/) | Readable source | [`Main.lua`](Mark22028%20Anti-Afk/Main.lua) | Screenshot anti-AFK loader archived as plain source. |
 | [Murder Duels](Murder%20Duels/) | Combined readable source | [`Main.lua`](Murder%20Duels/Main.lua) | Remote UI dependency was combined into one reviewable file. |
 | [MurderDuels 2](MurderDuels%202/) | Readable source recovery | [`Main.lua`](MurderDuels%202/Main.lua) | Sheriffs Duels/Sniper Assist source and fetch stage archived. |
 | [NinijaLegendv2](NinijaLegendv2/) | Loader decoded | [`Main.lua`](NinijaLegendv2/Main.lua) | XOR loader decoded to its GitHub source; downstream button loaders are still external. |
@@ -32,6 +33,7 @@ Use this page as the quick browse index for Open Source Hub. Each row links to t
 | [Spoofers](Spoofers/) | Readable source | [`videospoofer.lua`](Spoofers/videospoofer.lua) | Plain video spoofer source. |
 | [Universal 2](Universal%202/) | Partial WRD/Luraph recovery | [`Main.lua`](Universal%202/Main.lua) | Junkie loader resolved; WRD layer exposed; Luraph tail remains partial. |
 | [Universal 1](Universal%201/) | Loader decoded | [`Main.lua`](Universal%201/Main.lua) | WeAreDevs VM wrapper decoded to the FreeezeTrade GitHub loader. |
+| [The Strongest Battlegrounds](failed/The%20Strongest%20Battlegrounds/) | Failed MoonVeil recovery | [`TsbLoader.lua`](failed/The%20Strongest%20Battlegrounds/TsbLoader.lua) | Readable key-system wrapper archived; MoonVeil v1.4.5 second stage resisted current tooling. |
 | [sUNC](sUNC/) | Behavioral reconstruction | [`Main.lua`](sUNC/Main.lua) | Rebuilt readable executor capability tests from a Luraph-protected source. |
 | [server38](server38/) | Loader decoded | [`Main.lua`](server38/Main.lua) | MoonSec-protected loader URL recovered and archived. |
 | [splotv4.1](splotv4.1/) | Reconstructed source | [`Main.lua`](splotv4.1/Main.lua) | Anundix-style escapes decoded and identifiers/formatting cleaned. |
