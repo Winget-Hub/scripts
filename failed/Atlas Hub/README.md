@@ -3,6 +3,8 @@
 ## Files
 
 - Original loader: `OriginalLoader.lua`
+- Normalized mobile loader: `OriginalLoader_Mobile_Normalized.lua`
+- Mobile loader as provided: `OriginalLoader_Mobile_AsProvided.txt`
 - Readable first stage: `AtlasHub.lua`
 - Protected second stage: `Redliner.obfuscated.lua`
 - Attempt log: `attempts/moonsec_attempt.log`
@@ -15,6 +17,8 @@ The original loader fetched:
 ```lua
 https://raw.githubusercontent.com/maddonk1241/Redlinerscript/49bd7f726d16adb11f78fe83faf1dde24a754553/Atlas-Hub
 ```
+
+The mobile version provided in chat points at the same raw GitHub target, but the pasted text contains Markdown link markup inside the string. The exact text is preserved in `OriginalLoader_Mobile_AsProvided.txt`, and the usable normalized form is stored in `OriginalLoader_Mobile_Normalized.lua`.
 
 Fetched first-stage size: 5,563 bytes.
 
